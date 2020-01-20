@@ -92,7 +92,7 @@ img.avatar{
 .link-item{
   display: flex;
   align-items: center;
-  flex: 3;
+  flex-direction: column;
 }
 
 .link-item img{
