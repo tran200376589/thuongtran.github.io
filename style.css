@@ -86,13 +86,13 @@ img.avatar{
 .links{
   display: flex;
   margin: 10px 0 20px 0;
-
+  flex-direction: column;
 }
 
 .link-item{
   display: flex;
   align-items: center;
-  flex-direction: column;
+  
 }
 
 .link-item img{
